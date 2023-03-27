@@ -25,6 +25,7 @@
 /custom.py
 misc/hooks/pre-commit-custom-*
 .godot/
+.godot
 
 #############################
 ### Godot generated files ###
@@ -376,3 +377,4 @@ $RECYCLE.BIN/
 *.msp
 *.lnk
 *.csproj
+icon.svg.import
