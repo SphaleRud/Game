@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+KJtK6GjQVzO1Pkd1rcPJvsWS4ahVQDi2vTWcAHCEXCdacUztJPF3hSkdraRwWMGzYzWs8u57k0iziI/Of6Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zakha\\Documents\\GitHub\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zakha\\.nuget\\packages\\godot.sourcegenerators\\4.0.1\\godot.sourcegenerators.4.0.1.nupkg.sha512",
+    "C:\\Users\\zakha\\.nuget\\packages\\godotsharp\\4.0.1\\godotsharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\zakha\\.nuget\\packages\\godotsharpeditor\\4.0.1\\godotsharpeditor.4.0.1.nupkg.sha512",
+    "C:\\Users\\zakha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\zakha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\zakha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
